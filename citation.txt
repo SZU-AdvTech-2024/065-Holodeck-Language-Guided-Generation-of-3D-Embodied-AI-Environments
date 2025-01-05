@@ -1,0 +1,8 @@
+@inproceedings{REPO065,
+    author = "Yang, Yue and Sun, Fan-Yun and Weihs, Luca and VanderBilt, Eli and Herrasti, Alvaro and Han, Winson and Wu, Jiajun and Haber, Nick and Krishna, Ranjay and Liu, Lingjie and Callison-Burch, Chris and Yatskar, Mark and Kembhavi, Aniruddha and Clark, Christopher",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "16227-16237",
+    title = "{Holodeck: Language Guided Generation of 3D Embodied AI Environments}",
+    year = "2024"
+}
